@@ -1,22 +1,23 @@
 # Password Machine :lock:
 
-This browser app features dynamically updated HTML and CSS powered by JavaScript code.
+This browser app features dynamically updated HTML and CSS powered by JavaScript code to created a new password each time a button is pressed.
 
-**Deployed Site:** [Generator](https://armandosjunior.github.io/Password-Generator/) :sob:
+**Deployed Site:** [Generator](https://armandosjunior.github.io/Password-Generator/)
 
 
 ## **Some Technical Features Include:**
 ```
-- Functional button to copy generated password
-- Presentation of numerous options for password adjustments
+- Functionality of cancel button confused order of how question responses execute.
+- Presentation of generated password.
 ```
 
 ## **Mock Up:**
-![Image of Project](./images/hw.png)
+![Image of Project](./public/pro3.png)
 
 ## **Steps for future development:**
 ```
-- Adjust Javascript to have responsive buttons
-- Have application adapt to any size viewport
+- Adjust Javascript to successfully push a new password.
+- Continue to adjust CSS starter code to my personalized style.
+- Inset a copy button after code is presented.
 ```
 
