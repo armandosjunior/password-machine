@@ -2,7 +2,7 @@
 
 This browser app features dynamically updated HTML and CSS powered by JavaScript code to created a new password each time a button is pressed.
 
-**Deployed Site:** [Generator](https://armandosjunior.github.io/Password-Generator/)
+**Deployed Site:** [invalid]
 
 
 ## **Some Technical Features Include:**
